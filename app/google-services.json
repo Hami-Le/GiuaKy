@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697869978298",
+    "project_id": "gkapp-48dd5",
+    "storage_bucket": "gkapp-48dd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697869978298:android:87e0b0a20cd678219e1083",
+        "android_client_info": {
+          "package_name": "com.example.gkapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdtj4RToBjbDls2-C3Si8JuSx1MlKp9Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
